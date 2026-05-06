@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 26, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/kont-3ayesh-wala-a3ref-i-was-living-without-knowing/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Usage Rights for Kont 3ayesh Wala A3ref – I Was Living Without Knowing](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---

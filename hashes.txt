@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kont 3ayesh Wala A3ref – I Was Living Without Knowing
+
+This log tracks the cryptographic history and versioning for the song **Kont 3ayesh Wala A3ref – I Was Living Without Knowing** (kont-3ayesh-wala-a3ref-i-was-living-without-knowing).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T08:36:12.661616 | `v1` | `28c43de6cd6c3779167d080d80be293ee50f3ae3a4c816458780c7ae10b78172` | `0b881645126ecb471187c029b8bd743c01e2cf5282a91876b6c3cf0d7cb5acc4` | `2026-05-09_kont-3ayesh-wala-a3ref-i-was-living-without-knowing-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
